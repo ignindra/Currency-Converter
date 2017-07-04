@@ -1,4 +1,4 @@
 import App from './app/index';
 import { AppRegistry } from 'react-native';
 
-AppRegistry.registerComponent('UberExercise', () => App);
+AppRegistry.registerComponent('RNSandboxAppOne', () => App);
