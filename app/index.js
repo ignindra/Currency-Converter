@@ -1,12 +1,11 @@
 import React from 'react';
 
-import Home from './screens/Home';
+import Main from './config/routes';
 
 export default class App extends React.Component {
     render() {
         return (
-            <Home>
-            </Home>
+            <Main />
         );
     }
 }
